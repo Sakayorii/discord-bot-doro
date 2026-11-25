@@ -1,3 +1,5 @@
+-# what even is this project😭
+
 # Doro Discord Bot 🌸 V4.3 (Node.js Edition)
 
 An adorable multi-purpose Discord bot with music, economy, casino games, marriage system, AI chat, and word chain features! Now powered by Node.js with multilingual support!
